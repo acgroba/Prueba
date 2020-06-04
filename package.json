@@ -4,8 +4,7 @@
   "description": "Code challenge for frontend vacancy at Payvision. REST API exercise.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js",
-    "test": "jest --verbose  ./test --forceExit --detectOpenHandles"
+"
   },
   "author": "Payvision",
   "license": "ISC",
